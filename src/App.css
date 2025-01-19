@@ -15,12 +15,14 @@
 <section id="about" className="text-center py-8">
   <h2 className="text-3xl font-bold text-blue-500 mb-4">About Me</h2>
   <img
-    src="/assets/avatar.jpg"
+    src="/assets/Headshot.JPG"
     alt="Profile"
     className="mx-auto rounded-full w-40 h-40 border-4 border-pink-300 shadow-md"
   />
   <p className="text-lg mt-4 text-gray-700">
-    Hi! I’m a passionate web developer with a love for creating beautiful, functional websites.
+    Hey there! My name is Justice Foster. I was dual enrolled while I was in highschool at Burke Middle College, and was able to obtain my Associates in Arts degree through Western Piedmont Community College alongside my Highschool Diploma.
+    I'm currently enrolled in a web development bootcamp sponsered by UNC Chapel Hill in hopes of it segwaying into a career in the Videogame industry.
+    I am a gamer, an artist, and a social advocate. Let's create beautiful things together!
   </p>
 </section>
 

@@ -57,7 +57,7 @@ function Portfolio() {
   return (
     <section id="portfolio" className="py-8 text-center">
       {/* Title */}
-      <h2 className="text-3xl font-bold text-pastelPurple mb-4">Portfolio</h2>
+      <h2 className="text-3xl font-bold text-pastelBlue mb-4">Portfolio</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-4">
         {projects.map((project, index) => (
           <div

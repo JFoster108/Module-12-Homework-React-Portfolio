@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import About from "./components/About";
-import Portfolio from "./components/Portfolio";
-import Contact from "./components/Contact";
-import Resume from "./components/Resume";
+import Header from "/src/components/Header.jsx";
+import Footer from "/src/components/Footer.jsx";
+import About from "/src/components/About.jsx";
+import Portfolio from "/src/components/Portfolio.jsx";
+import Contact from "/src/components/Contact.jsx";
+import Resume from "/src/components/Resume.jsx";
 
 function App() {
   return (

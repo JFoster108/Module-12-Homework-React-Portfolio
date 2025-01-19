@@ -4,48 +4,48 @@ const projects = [
   {
     title: "Prework Study Guide",
     description: "A study guide to help you start your coding journey",
-    image: "./assets/Screenshot (20).png", // Replace with your image path
+    image: "./assets/Prework Study Guide.png", // Replace with your image path
     liveLink: "https://jfoster108.github.io/prework-study-guide/",
     repoLink: "https://github.com/JFoster108/prework-study-guide",
   },
   {
     title: "Kadence: A square breathing application",
     description: "An application for those with weary souls.",
-    image: "/assets/project2.jpg", // Replace with your image path
+    image: "/assets/Kadence.png", // Replace with your image path
     liveLink: "https://thomas-b01.github.io/Project-1-repo/",
     repoLink: "https://github.com/Thomas-B01/Project-1-repo",
   },
   {
     title: "Professional README Generator",
-    description: "A place to learn more about me, marvel at my work, and contact me.",
-    image: "/assets/project2.jpg", // Replace with your image path
+    description: "A command line application that allows you to create a README.md file",
+    image: "/assets/README generator.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module7Homework",
   },
   {
     title: "Vehicle Builder",
-    description: "A place to learn more about me, marvel at my work, and contact me.",
-    image: "/assets/project2.jpg", // Replace with your image path
+    description: "A command line application that lets you build vehicles, and more",
+    image: "/assets/Vehicle CLI.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-8-Homework",
   },
   {
     title: "API Weather Service",
     description: "Added back end functionality to a pre-existing weather application",
-    image: "/assets/project2.jpg", // Replace with your image path
+    image: "./assets/API Weather.png", // Replace with your image path
     liveLink: "https://justicefoster-apiweatherservice-hw9.onrender.com/",
     repoLink: "https://github.com/JFoster108/Module-9-Homework?tab=readme-ov-file",
   },
   {
     title: "PostgreSQL Employee Tracker",
-    description: "A place to learn more about me, marvel at my work, and contact me.",
-    image: "/assets/project2.jpg", // Replace with your image path
+    description: "A back end application that utilizes PostgreSQL to add and track employees",
+    image: "/assets/Emploee Tracker.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-10-Homework",
   },
   {
     title: "My Portfolio Website",
-    description: "A place to learn more about me, marvel at my work, and contact me.",
+    description: "A place to learn more about me, marvel at my work, and contact me",
     image: "/assets/project2.jpg", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-12-Homework-React-Portfolio",

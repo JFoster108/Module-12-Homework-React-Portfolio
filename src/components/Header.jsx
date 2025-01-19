@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="bg-gradient-to-r from-pastelBlue to-pastelPurple text-white py-4 rounded-b-2xl shadow-md">
       <div className="container mx-auto flex justify-between items-center px-4">
-        <h1 className="text-3xl font-bold text-pink-400">My Portfolio</h1>
+        <h1 className="text-3xl font-bold text-pink-400">Justice O. Foster</h1>
         <nav>
           <ul className="flex space-x-6">
             <li>

@@ -2,10 +2,17 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,jsx,ts,tsx}", // Matches all JS/JSX files in src/
+    "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        pastelBlue: '#add8e6',
+        pastelPurple: '#d8bfd8',
+        pastelPink: '#ffb6c1',
+        pastelTurquoise: '#b0e0e6',
+      },
+    },
   },
   plugins: [],
 };

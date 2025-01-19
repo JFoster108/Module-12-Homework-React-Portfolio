@@ -1,23 +1,28 @@
 import React from "react";
-import Header from "/src/components/Header.jsx";
-import Footer from "/src/components/Footer.jsx";
-import About from "/src/components/About.jsx";
-import Portfolio from "/src/components/Portfolio.jsx";
-import Contact from "/src/components/Contact.jsx";
-import Resume from "/src/components/Resume.jsx";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import About from "./components/About";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
+import Resume from "./components/Resume";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="bg-gray-50 min-h-screen flex flex-col">
-      <Header />
-      <main className="flex-grow">
-        <About />
-        <Portfolio />
-        <Contact />
-        <Resume />
-      </main>
-      <Footer />
-    </div>
+    <Router>
+      <div className="bg-gray-50 min-h-screen flex flex-col">
+        <Header />
+        <main className="flex-grow">
+          <Routes>
+            <Route path="/" element={<About />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/resume" element={<Resume />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

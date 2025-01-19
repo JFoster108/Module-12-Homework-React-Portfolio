@@ -11,7 +11,7 @@ function Footer() {
           href="https://github.com/JFoster108"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:text-pink-300"
+          className="hover:text-purple-400"
         >
           GitHub
         </a>
@@ -19,7 +19,7 @@ function Footer() {
           href="https://www.linkedin.com/in/justice-foster-155b5a347/"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:text-pink-300"
+          className="hover:text-purple-400"
         >
           LinkedIn
         </a>
@@ -27,7 +27,7 @@ function Footer() {
           href="https://stackoverflow.com/users/27526129/justice-foster"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:text-pink-300"
+          className="hover:text-purple-400"
         >
           Stack Overflow
         </a>

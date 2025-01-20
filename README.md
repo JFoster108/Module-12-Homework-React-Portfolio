@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fd2f73a-ccb4-410a-9a06-aaf7d80e59f8/deploy-status)](https://app.netlify.com/sites/theejusticefoster/deploys)

@@ -12,7 +12,7 @@ You can access this via your preferred web browser.
 
 You can switch between different tabs to see a description about me, my projects, a form to contact me, and my resume which you can download.
 
-![Screenshot of my website](./assets/portfolio-site.png "My Portfolio Website")
+<img src="./assets/portfolio-site.png" alt="App Screenshot" width="500">
 
 ## Credits
 

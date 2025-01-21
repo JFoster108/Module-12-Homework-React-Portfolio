@@ -4,49 +4,49 @@ const projects = [
   {
     title: "Prework Study Guide",
     description: "A study guide to help you start your coding journey",
-    image: "./assets/prework-study-guide.png", // Replace with your image path
+    image: "./prework-study-guide.png", // Replace with your image path
     liveLink: "https://jfoster108.github.io/prework-study-guide/",
     repoLink: "https://github.com/JFoster108/prework-study-guide",
   },
   {
     title: "Kadence: A square breathing application",
     description: "An application for those with weary souls.",
-    image: "./assets/kadence.png", // Replace with your image path
+    image: "./kadence.png", // Replace with your image path
     liveLink: "https://thomas-b01.github.io/Project-1-repo/",
     repoLink: "https://github.com/Thomas-B01/Project-1-repo",
   },
   {
     title: "Professional README Generator",
     description: "A command line application that allows you to create a README.md file",
-    image: "./assets/readme-generator.png", // Replace with your image path
+    image: "./readme-generator.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module7Homework",
   },
   {
     title: "Vehicle Builder",
     description: "A command line application that lets you build vehicles, and more",
-    image: "./assets/vehicle-cli.png", // Replace with your image path
+    image: "./vehicle-cli.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-8-Homework",
   },
   {
     title: "Weather Dashboard",
     description: "A weather application that uses the OpenWeather API.",
-    image: "./assets/api-weather.png", // Replace with your image path
+    image: "./api-weather.png", // Replace with your image path
     liveLink: "https://justicefoster-apiweatherservice-hw9.onrender.com/",
     repoLink: "https://github.com/JFoster108/Module-9-Homework?tab=readme-ov-file",
   },
   {
     title: "PostgreSQL Employee Tracker",
     description: "A CLI application to manage company employee data.",
-    image: "./assets/employee-tracker.png", // Replace with your image path
+    image: "./employee-tracker.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-10-Homework",
   },
   {
     title: "My Portfolio Website",
     description: "A place to learn more about me, marvel at my work, and contact me",
-    image: "./assets/portfolio-site.png", // Replace with your image path
+    image: "./portfolio-site.png", // Replace with your image path
     liveLink: null, // No deployment link
     repoLink: "https://github.com/JFoster108/Module-12-Homework-React-Portfolio",
   },

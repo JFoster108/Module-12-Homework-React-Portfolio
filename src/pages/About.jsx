@@ -5,7 +5,7 @@ function About() {
     <section id="about" className="text-center py-8">
   <h2 className="text-3xl font-bold text-pastelBlue mb-4">About Me</h2>
   <img
-    src="./assets/headshot.JPG"
+    src="./headshot.JPG"
     alt="Justice Foster"
     className="mx-auto rounded-full w-40 h-40 border-4 border-pastelPink shadow-soft object-cover"
   />
